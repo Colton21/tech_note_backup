@@ -1,0 +1,1050 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.4)  6 JAN 2017 16:27
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**argon39.tex
+(./argon39.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count100
+\mult@box=\box28
+\multicol@leftmargin=\dimen114
+\c@unbalance=\count101
+\c@collectmore=\count102
+\doublecol@number=\count103
+\multicoltolerance=\count104
+\multicolpretolerance=\count105
+\full@width=\dimen115
+\page@free=\dimen116
+\premulticols=\dimen117
+\postmulticols=\dimen118
+\multicolsep=\skip46
+\multicolbaselineskip=\skip47
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen119
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count106
+\c@finalcolumnbadness=\count107
+\last@try=\dimen120
+\multicolovershoot=\dimen121
+\multicolundershoot=\dimen122
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count108
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks20
+\float@box=\box54
+\@float@everytoks=\toks21
+\@floatcapt=\box55
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen123
+\extrarowheight=\dimen124
+\NC@list=\toks22
+\extratabsurround=\skip48
+\backup@length=\skip49
+)
+\TX@col@width=\dimen125
+\TX@old@table=\dimen126
+\TX@old@col=\dimen127
+\TX@target=\dimen128
+\TX@delta=\dimen129
+\TX@cols=\count110
+\TX@ftn=\toks23
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen130
+\captionmargin@=\dimen131
+\captionwidth=\dimen132
+\caption@tempdima=\dimen133
+\caption@indent=\dimen134
+\caption@parindent=\dimen135
+\caption@hangindent=\dimen136
+)
+\c@ContinuedFloat=\count111
+Package caption Info: float package is loaded.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count112
+\Gm@cntv=\count113
+\c@Gm@tempcnt=\count114
+\Gm@bindingoffset=\dimen137
+\Gm@wd@mp=\dimen138
+\Gm@odd@mp=\dimen139
+\Gm@even@mp=\dimen140
+\Gm@layoutwidth=\dimen141
+\Gm@layoutheight=\dimen142
+\Gm@layouthoffset=\dimen143
+\Gm@layoutvoffset=\dimen144
+\Gm@dimlist=\toks24
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip50
+\bibsep=\skip51
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count115
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+\TY@count=\count116
+\TY@linewidth=\dimen145
+\tymin=\dimen146
+\tymax=\dimen147
+\TY@tablewidth=\dimen148
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/braket/braket.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count117
+\sf@farskip=\skip52
+\sf@captopadj=\dimen149
+\sf@capskip=\skip53
+\sf@nearskip=\skip54
+\c@subfigure=\count118
+\c@subfigure@save=\count119
+\c@lofdepth=\count120
+\c@subtable=\count121
+\c@subtable@save=\count122
+\c@lotdepth=\count123
+\sf@top=\skip55
+\sf@bottom=\skip56
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfloat/subfloat.sty
+Package: subfloat 2003/08/21 version 2.14
+
+Package `subfloat', Version 2.14 of 2003/08/21.
+
+Package subfloat Warning: Numbers of floats not counted:
+(subfloat)                If you use one of the counters subfloatfiguremax or
+(subfloat)                subfloattablemax you will get strange error messages
+(subfloat)                containing \c@subfloatfiguremax or
+(subfloat)                \c@subfloattablemax:
+(subfloat)                Please switch on countmax or remove the code using
+(subfloat)                the counter then..
+
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip57
+\f@ncyO@elh=\skip58
+\f@ncyO@erh=\skip59
+\f@ncyO@olh=\skip60
+\f@ncyO@orh=\skip61
+\f@ncyO@elf=\skip62
+\f@ncyO@erf=\skip63
+\f@ncyO@olf=\skip64
+\f@ncyO@orf=\skip65
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count124
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 34.
+
+(./argon39.aux
+
+./argon39.aux:86: Package natbib Error: Bibliography not compatible with author
+-year citations.
+(natbib)                Press <return> to continue in numerical citation style.
+
+
+See the natbib package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ...mand\NAT@force@numbers{}\NAT@force@numbers
+                                                  
+? 
+)
+\openout1 = `argon39.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 41.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 41.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count125
+\scratchdimen=\dimen150
+\scratchbox=\box56
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen151
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks26
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./argon39.toc)
+\tf@toc=\write3
+\openout3 = `argon39.toc'.
+
+ [2]
+<ar39_spectrum_larger.pdf, id=18, 737.50978pt x 663.78226pt>
+File: ar39_spectrum_larger.pdf Graphic file (type pdf)
+
+<use ar39_spectrum_larger.pdf>
+Package pdftex.def Info: ar39_spectrum_larger.pdf used on input line 88.
+(pdftex.def)             Requested size: 203.83426pt x 181.1784pt.
+ [3 <./ar39_spectrum_larger.pdf>]
+<sn_spectrum_larger.pdf, id=112, 797.19817pt x 601.14497pt>
+File: sn_spectrum_larger.pdf Graphic file (type pdf)
+
+<use sn_spectrum_larger.pdf>
+Package pdftex.def Info: sn_spectrum_larger.pdf used on input line 96.
+(pdftex.def)             Requested size: 203.8363pt x 181.1796pt.
+
+<configurations.png, id=113, 866.437pt x 305.14pt>
+File: configurations.png Graphic file (type png)
+ <use configurations.png>
+Package pdftex.def Info: configurations.png used on input line 118.
+(pdftex.def)             Requested size: 362.37569pt x 127.62247pt.
+
+[4 <./sn_spectrum_larger.pdf>] [5 <./configurations.png>]
+<ar40_scintillation_timing_larger.pdf, id=275, 588.0327pt x 399.83545pt>
+File: ar40_scintillation_timing_larger.pdf Graphic file (type pdf)
+
+<use ar40_scintillation_timing_larger.pdf>
+Package pdftex.def Info: ar40_scintillation_timing_larger.pdf used on input lin
+e 156.
+(pdftex.def)             Requested size: 226.48395pt x 153.99507pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+[6 <./ar40_scintillation_timing_larger.pdf>]
+<pmt_maps_ar.pdf, id=388, 569.12625pt x 387.4475pt>
+File: pmt_maps_ar.pdf Graphic file (type pdf)
+ <use pmt_maps_ar.pdf>
+Package pdftex.def Info: pmt_maps_ar.pdf used on input line 176.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<pmt_maps_5_supernova.pdf, id=389, 569.12625pt x 387.4475pt>
+File: pmt_maps_5_supernova.pdf Graphic file (type pdf)
+
+<use pmt_maps_5_supernova.pdf>
+Package pdftex.def Info: pmt_maps_5_supernova.pdf used on input line 177.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<pmt_maps_22_supernova.pdf, id=390, 569.12625pt x 387.4475pt>
+File: pmt_maps_22_supernova.pdf Graphic file (type pdf)
+
+<use pmt_maps_22_supernova.pdf>
+Package pdftex.def Info: pmt_maps_22_supernova.pdf used on input line 178.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<single_maxE_middetector_ar_time_distribution_ff_labels.pdf, id=391, 569.05702p
+t x 304.38994pt>
+File: single_maxE_middetector_ar_time_distribution_ff_labels.pdf Graphic file (
+type pdf)
+
+<use single_maxE_middetector_ar_time_distribution_ff_labels.pdf>
+Package pdftex.def Info: single_maxE_middetector_ar_time_distribution_ff_labels
+.pdf used on input line 187.
+(pdftex.def)             Requested size: 194.77287pt x 104.18324pt.
+
+<single_5mev_middetector_sn_time_distribution_ff_labels.pdf, id=392, 569.05702p
+t x 304.38994pt>
+File: single_5mev_middetector_sn_time_distribution_ff_labels.pdf Graphic file (
+type pdf)
+
+<use single_5mev_middetector_sn_time_distribution_ff_labels.pdf>
+Package pdftex.def Info: single_5mev_middetector_sn_time_distribution_ff_labels
+.pdf used on input line 188.
+(pdftex.def)             Requested size: 194.77287pt x 104.18324pt.
+
+<single_20mev_middetector_sn_time_distribution_ff_labels.pdf, id=393, 569.05702
+pt x 304.38994pt>
+File: single_20mev_middetector_sn_time_distribution_ff_labels.pdf Graphic file 
+(type pdf)
+
+<use single_20mev_middetector_sn_time_distribution_ff_labels.pdf>
+Package pdftex.def Info: single_20mev_middetector_sn_time_distribution_ff_label
+s.pdf used on input line 189.
+(pdftex.def)             Requested size: 194.77287pt x 104.18324pt.
+ [7 <./pmt_maps_ar.pdf, page is rotated 90 degrees> <./pmt_maps_5_supernova.pdf
+, page is rotated 90 degrees> <./pmt_maps_22_supernova.pdf, page is rotated 90 
+degrees>]
+<pmt_times_labels.pdf, id=528, 569.05702pt x 385.91278pt>
+File: pmt_times_labels.pdf Graphic file (type pdf)
+
+<use pmt_times_labels.pdf>
+Package pdftex.def Info: pmt_times_labels.pdf used on input line 203.
+(pdftex.def)             Requested size: 203.83417pt x 138.23364pt.
+ [8 <./single_maxE_middetector_ar_time_distribution_ff_labels.pdf> <./single_5m
+ev_middetector_sn_time_distribution_ff_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./single_5mev_middetector_sn
+_time_distribution_ff_labels.pdf): PDF inclusion: multiple pdfs with page group
+ included in a single page
+> <./single_20mev_middetector_sn_time_distribution_ff_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./single_20mev_middetector_s
+n_time_distribution_ff_labels.pdf): PDF inclusion: multiple pdfs with page grou
+p included in a single page
+>] <detected_fullfoils_x_labels.pdf, id=865, 569.05702pt x 301.84914pt>
+File: detected_fullfoils_x_labels.pdf Graphic file (type pdf)
+
+<use detected_fullfoils_x_labels.pdf>
+Package pdftex.def Info: detected_fullfoils_x_labels.pdf used on input line 231
+.
+(pdftex.def)             Requested size: 217.42265pt x 115.33025pt.
+
+<detected_cathode_x_labels.pdf, id=866, 569.05702pt x 301.84914pt>
+File: detected_cathode_x_labels.pdf Graphic file (type pdf)
+
+<use detected_cathode_x_labels.pdf>
+Package pdftex.def Info: detected_cathode_x_labels.pdf used on input line 232.
+(pdftex.def)             Requested size: 217.42265pt x 115.33025pt.
+
+<detected_nofoils_x_labels.pdf, id=867, 569.05702pt x 304.23427pt>
+File: detected_nofoils_x_labels.pdf Graphic file (type pdf)
+
+<use detected_nofoils_x_labels.pdf>
+Package pdftex.def Info: detected_nofoils_x_labels.pdf used on input line 233.
+(pdftex.def)             Requested size: 217.42265pt x 116.24156pt.
+ [9 <./pmt_times_labels.pdf>]
+<detected_fullfoils_y_labels.pdf, id=975, 569.05702pt x 301.0541pt>
+File: detected_fullfoils_y_labels.pdf Graphic file (type pdf)
+
+<use detected_fullfoils_y_labels.pdf>
+Package pdftex.def Info: detected_fullfoils_y_labels.pdf used on input line 241
+.
+(pdftex.def)             Requested size: 217.42265pt x 115.02647pt.
+
+<detected_cathode_y_labels.pdf, id=976, 569.05702pt x 303.43925pt>
+File: detected_cathode_y_labels.pdf Graphic file (type pdf)
+
+<use detected_cathode_y_labels.pdf>
+Package pdftex.def Info: detected_cathode_y_labels.pdf used on input line 242.
+(pdftex.def)             Requested size: 217.42265pt x 115.9378pt.
+
+<detected_nofoils_y_labels.pdf, id=977, 569.05702pt x 303.43925pt>
+File: detected_nofoils_y_labels.pdf Graphic file (type pdf)
+
+<use detected_nofoils_y_labels.pdf>
+Package pdftex.def Info: detected_nofoils_y_labels.pdf used on input line 243.
+(pdftex.def)             Requested size: 217.42265pt x 115.9378pt.
+
+<detected_fullfoils_z_labels.pdf, id=978, 569.05702pt x 301.0541pt>
+File: detected_fullfoils_z_labels.pdf Graphic file (type pdf)
+
+<use detected_fullfoils_z_labels.pdf>
+Package pdftex.def Info: detected_fullfoils_z_labels.pdf used on input line 249
+.
+(pdftex.def)             Requested size: 217.42265pt x 115.02647pt.
+
+<detected_cathode_z_labels.pdf, id=979, 569.05702pt x 302.6442pt>
+File: detected_cathode_z_labels.pdf Graphic file (type pdf)
+
+<use detected_cathode_z_labels.pdf>
+Package pdftex.def Info: detected_cathode_z_labels.pdf used on input line 250.
+(pdftex.def)             Requested size: 217.42265pt x 115.63402pt.
+
+<detected_nofoils_z_labels.pdf, id=980, 569.05702pt x 302.6442pt>
+File: detected_nofoils_z_labels.pdf Graphic file (type pdf)
+
+<use detected_nofoils_z_labels.pdf>
+Package pdftex.def Info: detected_nofoils_z_labels.pdf used on input line 251.
+(pdftex.def)             Requested size: 217.42265pt x 115.63402pt.
+ [10 <./detected_fullfoils_x_labels.pdf> <./detected_cathode_x_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./detected_cathode_x_labels.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./detected_nofoils_x_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./detected_nofoils_x_labels.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./detected_fullfoils_y_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./detected_fullfoils_y_label
+s.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./detected_cathode_y_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./detected_cathode_y_labels.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./detected_nofoils_y_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./detected_nofoils_y_labels.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [11 <./detected_fullfoils_z_labels.pdf> <./detected_cathode_z_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./detected_cathode_z_labels.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./detected_nofoils_z_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./detected_nofoils_z_labels.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<ar39_energy_spectrum_60pmts_alllight_labels.pdf, id=2276, 569.05702pt x 385.62
+27pt>
+File: ar39_energy_spectrum_60pmts_alllight_labels.pdf Graphic file (type pdf)
+ <use ar39_energy_spectrum_60pmts_alllight_labels.pdf>
+Package pdftex.def Info: ar39_energy_spectrum_60pmts_alllight_labels.pdf used o
+n input line 309.
+(pdftex.def)             Requested size: 203.83417pt x 138.12973pt.
+
+<sn_energy_spectrum_60pmts_alllight_labels.pdf, id=2277, 569.05702pt x 385.6227
+pt>
+File: sn_energy_spectrum_60pmts_alllight_labels.pdf Graphic file (type pdf)
+ <use sn_energy_spectrum_60pmts_alllight_labels.pdf>
+Package pdftex.def Info: sn_energy_spectrum_60pmts_alllight_labels.pdf used on 
+input line 310.
+(pdftex.def)             Requested size: 203.83417pt x 138.12973pt.
+
+<ar39_energy_spectrum_60pmts_vuv_labels.pdf, id=2278, 569.05702pt x 385.6227pt>
+File: ar39_energy_spectrum_60pmts_vuv_labels.pdf Graphic file (type pdf)
+<use ar39_energy_spectrum_60pmts_vuv_labels.pdf>
+Package pdftex.def Info: ar39_energy_spectrum_60pmts_vuv_labels.pdf used on inp
+ut line 316.
+(pdftex.def)             Requested size: 203.83417pt x 138.12973pt.
+
+<sn_energy_spectrum_60pmts_vuv_labels.pdf, id=2279, 569.05702pt x 385.6227pt>
+File: sn_energy_spectrum_60pmts_vuv_labels.pdf Graphic file (type pdf)
+
+<use sn_energy_spectrum_60pmts_vuv_labels.pdf>
+Package pdftex.def Info: sn_energy_spectrum_60pmts_vuv_labels.pdf used on input
+ line 317.
+(pdftex.def)             Requested size: 203.83417pt x 138.12973pt.
+ [12 <./ar39_energy_spectrum_60pmts_alllight_labels.pdf> <./sn_energy_spectrum_
+60pmts_alllight_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sn_energy_spectrum_60pmts_
+alllight_labels.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+>] <num_pmts_uniform.pdf, id=2521, 569.12625pt x 385.44pt>
+File: num_pmts_uniform.pdf Graphic file (type pdf)
+
+<use num_pmts_uniform.pdf>
+Package pdftex.def Info: num_pmts_uniform.pdf used on input line 327.
+(pdftex.def)             Requested size: 203.83417pt x 138.04665pt.
+
+<num_pmts_vuv_only_uniform_adjusted_cuts.pdf, id=2522, 569.12625pt x 385.44pt>
+File: num_pmts_vuv_only_uniform_adjusted_cuts.pdf Graphic file (type pdf)
+
+<use num_pmts_vuv_only_uniform_adjusted_cuts.pdf>
+Package pdftex.def Info: num_pmts_vuv_only_uniform_adjusted_cuts.pdf used on in
+put line 328.
+(pdftex.def)             Requested size: 203.83417pt x 138.04665pt.
+ [13 <./ar39_energy_spectrum_60pmts_vuv_labels.pdf> <./sn_energy_spectrum_60pmt
+s_vuv_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sn_energy_spectrum_60pmts_
+vuv_labels.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+> <./num_pmts_uniform.pdf, page is rotated 90 degrees> <./num_pmts_vuv_only_uni
+form_adjusted_cuts.pdf, page is rotated 90 degrees>]
+<ar39_signal_map_improved_fastlight_2_labels.pdf, id=2848, 569.05702pt x 385.91
+278pt>
+File: ar39_signal_map_improved_fastlight_2_labels.pdf Graphic file (type pdf)
+ <use ar39_signal_map_improved_fastlight_2_labels.pdf>
+Package pdftex.def Info: ar39_signal_map_improved_fastlight_2_labels.pdf used o
+n input line 340.
+(pdftex.def)             Requested size: 194.77287pt x 132.086pt.
+
+<sn_signal_map_improved_fastlight_labels.pdf, id=2849, 569.05702pt x 385.91278p
+t>
+File: sn_signal_map_improved_fastlight_labels.pdf Graphic file (type pdf)
+ <use sn_signal_map_improved_fastlight_labels.pdf>
+Package pdftex.def Info: sn_signal_map_improved_fastlight_labels.pdf used on in
+put line 341.
+(pdftex.def)             Requested size: 194.77287pt x 132.086pt.
+
+<sn_signal_map_higherE_improved_fastlight_labels.pdf, id=2850, 569.05702pt x 38
+5.91278pt>
+File: sn_signal_map_higherE_improved_fastlight_labels.pdf Graphic file (type pd
+f)
+ <use sn_signal_map_higherE_improved_fastlight_labels.pdf>
+Package pdftex.def Info: sn_signal_map_higherE_improved_fastlight_labels.pdf us
+ed on input line 342.
+(pdftex.def)             Requested size: 194.77287pt x 132.086pt.
+ [14 <./ar39_signal_map_improved_fastlight_2_labels.pdf> <./sn_signal_map_impro
+ved_fastlight_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sn_signal_map_improved_fas
+tlight_labels.pdf): PDF inclusion: multiple pdfs with page group included in a 
+single page
+> <./sn_signal_map_higherE_improved_fastlight_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sn_signal_map_higherE_impr
+oved_fastlight_labels.pdf): PDF inclusion: multiple pdfs with page group includ
+ed in a single page
+>]
+<ar39_energy_spectrum_60pmts_fastlight_labels.pdf, id=3241, 569.05702pt x 385.6
+227pt>
+File: ar39_energy_spectrum_60pmts_fastlight_labels.pdf Graphic file (type pdf)
+ <use ar39_energy_spectrum_60pmts_fastlight_labels.pdf>
+Package pdftex.def Info: ar39_energy_spectrum_60pmts_fastlight_labels.pdf used 
+on input line 382.
+(pdftex.def)             Requested size: 203.83417pt x 138.12973pt.
+
+<sn_energy_spectrum_60pmts_fastlight_labels.pdf, id=3242, 569.05702pt x 385.622
+7pt>
+File: sn_energy_spectrum_60pmts_fastlight_labels.pdf Graphic file (type pdf)
+ <use sn_energy_spectrum_60pmts_fastlight_labels.pdf>
+Package pdftex.def Info: sn_energy_spectrum_60pmts_fastlight_labels.pdf used on
+ input line 383.
+(pdftex.def)             Requested size: 203.83417pt x 138.12973pt.
+
+<ar39_energy_spectrum_60pmts_vuv_fastlight_labels.pdf, id=3243, 569.05702pt x 3
+85.6227pt>
+File: ar39_energy_spectrum_60pmts_vuv_fastlight_labels.pdf Graphic file (type p
+df)
+ <use ar39_energy_spectrum_60pmts_vuv_fastlight_labels.pdf>
+Package pdftex.def Info: ar39_energy_spectrum_60pmts_vuv_fastlight_labels.pdf u
+sed on input line 389.
+(pdftex.def)             Requested size: 203.83417pt x 138.12973pt.
+
+<sn_energy_spectrum_60pmts_vuv_fastlight_labels.pdf, id=3244, 569.05702pt x 385
+.6227pt>
+File: sn_energy_spectrum_60pmts_vuv_fastlight_labels.pdf Graphic file (type pdf
+)
+ <use sn_energy_spectrum_60pmts_vuv_fastlight_labels.pdf>
+Package pdftex.def Info: sn_energy_spectrum_60pmts_vuv_fastlight_labels.pdf use
+d on input line 390.
+(pdftex.def)             Requested size: 203.83417pt x 138.12973pt.
+ [15 <./ar39_energy_spectrum_60pmts_fastlight_labels.pdf> <./sn_energy_spectrum
+_60pmts_fastlight_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sn_energy_spectrum_60pmts_
+fastlight_labels.pdf): PDF inclusion: multiple pdfs with page group included in
+ a single page
+>] <ar39_trigger_map_fullfoils.pdf, id=3504, 569.12625pt x 387.4475pt>
+File: ar39_trigger_map_fullfoils.pdf Graphic file (type pdf)
+
+<use ar39_trigger_map_fullfoils.pdf>
+Package pdftex.def Info: ar39_trigger_map_fullfoils.pdf used on input line 406.
+
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<ar39_trigger_map_cathode.pdf, id=3505, 569.12625pt x 387.4475pt>
+File: ar39_trigger_map_cathode.pdf Graphic file (type pdf)
+
+<use ar39_trigger_map_cathode.pdf>
+Package pdftex.def Info: ar39_trigger_map_cathode.pdf used on input line 407.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<ar39_trigger_map_vuv.pdf, id=3506, 569.12625pt x 387.4475pt>
+File: ar39_trigger_map_vuv.pdf Graphic file (type pdf)
+
+<use ar39_trigger_map_vuv.pdf>
+Package pdftex.def Info: ar39_trigger_map_vuv.pdf used on input line 408.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+ [16 <./ar39_energy_spectrum_60pmts_vuv_fastlight_labels.pdf> <./sn_energy_spec
+trum_60pmts_vuv_fastlight_labels.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sn_energy_spectrum_60pmts_
+vuv_fastlight_labels.pdf): PDF inclusion: multiple pdfs with page group include
+d in a single page
+>] <updated_efficiency_logy_labels.png, id=3766, 612.1269pt x 433.62pt>
+File: updated_efficiency_logy_labels.png Graphic file (type png)
+
+<use updated_efficiency_logy_labels.png>
+Package pdftex.def Info: updated_efficiency_logy_labels.png used on input line 
+416.
+(pdftex.def)             Requested size: 226.48395pt x 160.43689pt.
+ [17 <./ar39_trigger_map_fullfoils.pdf, page is rotated 90 degrees> <./ar39_tri
+gger_map_cathode.pdf, page is rotated 90 degrees> <./ar39_trigger_map_vuv.pdf, 
+page is rotated 90 degrees> <./updated_efficiency_logy_labels.png>]
+<trigger_map_100_fullfoils.pdf, id=3900, 569.12625pt x 387.4475pt>
+File: trigger_map_100_fullfoils.pdf Graphic file (type pdf)
+
+<use trigger_map_100_fullfoils.pdf>
+Package pdftex.def Info: trigger_map_100_fullfoils.pdf used on input line 426.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<trigger_map_100_cathode.pdf, id=3901, 569.12625pt x 387.4475pt>
+File: trigger_map_100_cathode.pdf Graphic file (type pdf)
+
+<use trigger_map_100_cathode.pdf>
+Package pdftex.def Info: trigger_map_100_cathode.pdf used on input line 427.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<trigger_map_100_vuv.pdf, id=3902, 569.12625pt x 387.4475pt>
+File: trigger_map_100_vuv.pdf Graphic file (type pdf)
+
+<use trigger_map_100_vuv.pdf>
+Package pdftex.def Info: trigger_map_100_vuv.pdf used on input line 428.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<ar39_10v100.png, id=3903, 810.1467pt x 589.7232pt>
+File: ar39_10v100.png Graphic file (type png)
+ <use ar39_10v100.png>
+Package pdftex.def Info: ar39_10v100.png used on input line 436.
+(pdftex.def)             Requested size: 226.48395pt x 164.86041pt.
+
+<sn_trigger_map_fullfoils.pdf, id=3904, 569.12625pt x 387.4475pt>
+File: sn_trigger_map_fullfoils.pdf Graphic file (type pdf)
+
+<use sn_trigger_map_fullfoils.pdf>
+Package pdftex.def Info: sn_trigger_map_fullfoils.pdf used on input line 444.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<sn_trigger_map_cathode.pdf, id=3905, 569.12625pt x 387.4475pt>
+File: sn_trigger_map_cathode.pdf Graphic file (type pdf)
+
+<use sn_trigger_map_cathode.pdf>
+Package pdftex.def Info: sn_trigger_map_cathode.pdf used on input line 445.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+
+<sn_trigger_map_vuv.pdf, id=3906, 569.12625pt x 387.4475pt>
+File: sn_trigger_map_vuv.pdf Graphic file (type pdf)
+
+<use sn_trigger_map_vuv.pdf>
+Package pdftex.def Info: sn_trigger_map_vuv.pdf used on input line 446.
+(pdftex.def)             Requested size: 194.77287pt x 132.59946pt.
+ [18 <./trigger_map_100_fullfoils.pdf, page is rotated 90 degrees> <./trigger_m
+ap_100_cathode.pdf, page is rotated 90 degrees> <./trigger_map_100_vuv.pdf, pag
+e is rotated 90 degrees> <./ar39_10v100.png>]
+<updated_efficiency_labels.png, id=4041, 618.6312pt x 433.62pt>
+File: updated_efficiency_labels.png Graphic file (type png)
+
+<use updated_efficiency_labels.png>
+Package pdftex.def Info: updated_efficiency_labels.png used on input line 454.
+(pdftex.def)             Requested size: 226.48395pt x 158.74968pt.
+ [19 <./sn_trigger_map_fullfoils.pdf, page is rotated 90 degrees> <./sn_trigger
+_map_cathode.pdf, page is rotated 90 degrees> <./sn_trigger_map_vuv.pdf, page i
+s rotated 90 degrees> <./updated_efficiency_labels.png>]
+<updated_efficiency_purity_labels.png, id=4176, 634.5306pt x 433.62pt>
+File: updated_efficiency_purity_labels.png Graphic file (type png)
+
+<use updated_efficiency_purity_labels.png>
+Package pdftex.def Info: updated_efficiency_purity_labels.png used on input lin
+e 476.
+(pdftex.def)             Requested size: 226.48395pt x 154.77316pt.
+ [20 <./updated_efficiency_purity_labels.png>] [21] <ar39_signal_map_rebin.pdf,
+ id=4185, 569.12625pt x 385.44pt>
+File: ar39_signal_map_rebin.pdf Graphic file (type pdf)
+
+<use ar39_signal_map_rebin.pdf>
+Package pdftex.def Info: ar39_signal_map_rebin.pdf used on input line 574.
+(pdftex.def)             Requested size: 194.77287pt x 131.91241pt.
+
+<sn_signal_map_rebin.pdf, id=4186, 569.12625pt x 385.44pt>
+File: sn_signal_map_rebin.pdf Graphic file (type pdf)
+
+<use sn_signal_map_rebin.pdf>
+Package pdftex.def Info: sn_signal_map_rebin.pdf used on input line 575.
+(pdftex.def)             Requested size: 194.77287pt x 131.91241pt.
+
+<sn_signal_map_higherE_rebin.pdf, id=4187, 569.12625pt x 385.44pt>
+File: sn_signal_map_higherE_rebin.pdf Graphic file (type pdf)
+
+<use sn_signal_map_higherE_rebin.pdf>
+Package pdftex.def Info: sn_signal_map_higherE_rebin.pdf used on input line 576
+.
+(pdftex.def)             Requested size: 194.77287pt x 131.91241pt.
+
+<ar39_signal_map_rebin_fastlight_2.pdf, id=4188, 569.12625pt x 385.44pt>
+File: ar39_signal_map_rebin_fastlight_2.pdf Graphic file (type pdf)
+
+<use ar39_signal_map_rebin_fastlight_2.pdf>
+Package pdftex.def Info: ar39_signal_map_rebin_fastlight_2.pdf used on input li
+ne 584.
+(pdftex.def)             Requested size: 194.77287pt x 131.91241pt.
+
+<sn_signal_map_rebin_improved_fastlight.pdf, id=4189, 569.12625pt x 385.44pt>
+File: sn_signal_map_rebin_improved_fastlight.pdf Graphic file (type pdf)
+
+<use sn_signal_map_rebin_improved_fastlight.pdf>
+Package pdftex.def Info: sn_signal_map_rebin_improved_fastlight.pdf used on inp
+ut line 585.
+(pdftex.def)             Requested size: 194.77287pt x 131.91241pt.
+
+<sn_signal_map_higherE_rebin_improved_fastlight.pdf, id=4190, 569.12625pt x 385
+.44pt>
+File: sn_signal_map_higherE_rebin_improved_fastlight.pdf Graphic file (type pdf
+)
+ <use sn_signal_map_higherE_rebin_improved_fastlight.pdf>
+Package pdftex.def Info: sn_signal_map_higherE_rebin_improved_fastlight.pdf use
+d on input line 586.
+(pdftex.def)             Requested size: 194.77287pt x 131.91241pt.
+ [22 <./ar39_signal_map_rebin.pdf, page is rotated 90 degrees> <./sn_signal_map
+_rebin.pdf, page is rotated 90 degrees> <./sn_signal_map_higherE_rebin.pdf, pag
+e is rotated 90 degrees>] [23 <./ar39_signal_map_rebin_fastlight_2.pdf, page is
+ rotated 90 degrees> <./sn_signal_map_rebin_improved_fastlight.pdf, page is rot
+ated 90 degrees> <./sn_signal_map_higherE_rebin_improved_fastlight.pdf, page is
+ rotated 90 degrees>] (./argon39.aux) ) 
+Here is how much of TeX's memory you used:
+ 5766 strings out of 493014
+ 90395 string characters out of 6133352
+ 163234 words of memory out of 5000000
+ 9162 multiletter control sequences out of 15000+600000
+ 10366 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,12n,43p,1412b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/font
+s/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsl10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/
+sfrm1000.pfb>
+Output written on argon39.pdf (23 pages, 1612262 bytes).
+PDF statistics:
+ 4503 PDF objects out of 5155 (max. 8388607)
+ 2739 compressed objects within 28 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+

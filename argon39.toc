@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Scintillation from Low Energy Events in Liquid Argon Time Projection Chambers}{3}
+\contentsline {section}{\numberline {2}$^{39}$Ar and Supernova Neutrinos}{3}
+\contentsline {section}{\numberline {3}Simulation Details}{4}
+\contentsline {subsection}{\numberline {3.1}Fast Optical Simulation}{4}
+\contentsline {subsection}{\numberline {3.2}Photons from Low Energy Events}{5}
+\contentsline {subsection}{\numberline {3.3}Simulating Timing}{6}
+\contentsline {subsection}{\numberline {3.4}Validating the Simulation}{6}
+\contentsline {subsubsection}{\numberline {3.4.1}Independent Event Validation}{7}
+\contentsline {subsubsection}{\numberline {3.4.2}Time Dependant Validation}{8}
+\contentsline {section}{\numberline {4}Limiting Background Signals}{11}
+\contentsline {subsection}{\numberline {4.1}Time Independent Cut Efficiencies}{11}
+\contentsline {subsection}{\numberline {4.2}Single Events - Fast Light Cut}{14}
+\contentsline {subsection}{\numberline {4.3}Time Rejection}{16}
+\contentsline {section}{\numberline {5}Conclusion}{20}
+\contentsline {section}{\numberline {A}Alternate Binning Scheme for Single Events}{22}
